@@ -8,7 +8,6 @@ body {
     /* Garante que a barra de rolagem vertical esteja sempre disponível */
     overflow-x: hidden;
     padding-bottom: 5rem;
-    /* Ajuste o valor conforme necessário */
 }
 
 header {
@@ -79,7 +78,6 @@ footer {
     align-items: center;
     margin-top: 10px;
     width: 100%;
-    /* Certifique-se de que a div ocupa a largura completa */
     min-height: 100px;
     /* Define uma altura mínima para garantir que a div seja visível */
 }
